@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>698806986742-grfrll8ftvsl95orcufts4vmk9dfsjcq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.698806986742-grfrll8ftvsl95orcufts4vmk9dfsjcq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBz4-nVHLPwN2sgXjNdOxbhCdPGJO374WA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>698806986742</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Matias.Gonzalez.Portiglia.LetsChating</string>
+	<key>PROJECT_ID</key>
+	<string>letschating-91012</string>
+	<key>STORAGE_BUCKET</key>
+	<string>letschating-91012.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:698806986742:ios:663ccd9fe995f051b3c9d7</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_LetsChating {
+  umbrella header "Pods-LetsChating-umbrella.h"
+
+  export *
+  module * { export * }
+}
