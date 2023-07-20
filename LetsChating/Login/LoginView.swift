@@ -38,9 +38,9 @@ struct LoginView: View {
                         Group {
                             HStack {
                                 Spacer()
-                                Image(systemName: "person")
+                                Image("Image")
                                     .resizable()
-                                    .frame(width: 100, height: 100)
+                                    .frame(width: 80, height: 80)
                                     .aspectRatio(contentMode: .fit)
                                     .padding(6)
                                     .cornerRadius(20)

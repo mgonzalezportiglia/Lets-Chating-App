@@ -31,6 +31,7 @@
 		0BA5D9102A320CFC003C7A59 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BA5D90F2A320CFC003C7A59 /* Preview Assets.xcassets */; };
 		0BA5D9122A320CFC003C7A59 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA5D9112A320CFC003C7A59 /* Persistence.swift */; };
 		0BA5D9152A320CFC003C7A59 /* LetsChating.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0BA5D9132A320CFC003C7A59 /* LetsChating.xcdatamodeld */; };
+		0BEC58202A58B501004F7E36 /* icon.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BEC581F2A58B501004F7E36 /* icon.xcassets */; };
 		0BEE62332A4F695E001B9875 /* ProfileRecipientSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEE62322A4F695E001B9875 /* ProfileRecipientSettings.swift */; };
 		CE29A0BDA7AAC728F94E6049 /* Pods_LetsChating.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69D0B2153025523A78BD0E9B /* Pods_LetsChating.framework */; };
 /* End PBXBuildFile section */
@@ -63,6 +64,7 @@
 		0BA5D90F2A320CFC003C7A59 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0BA5D9112A320CFC003C7A59 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		0BA5D9142A320CFC003C7A59 /* LetsChating.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LetsChating.xcdatamodel; sourceTree = "<group>"; };
+		0BEC581F2A58B501004F7E36 /* icon.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = icon.xcassets; sourceTree = "<group>"; };
 		0BEE62322A4F695E001B9875 /* ProfileRecipientSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileRecipientSettings.swift; sourceTree = "<group>"; };
 		69D0B2153025523A78BD0E9B /* Pods_LetsChating.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LetsChating.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		762E5B3CA4F1F839A00D4C96 /* Pods-LetsChating.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LetsChating.release.xcconfig"; path = "Target Support Files/Pods-LetsChating/Pods-LetsChating.release.xcconfig"; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 		0BA5D8FC2A320CFA003C7A59 = {
 			isa = PBXGroup;
 			children = (
+				0BEC581F2A58B501004F7E36 /* icon.xcassets */,
 				0B265B112A3210F80049196F /* GoogleService-Info.plist */,
 				0BA5D9072A320CFA003C7A59 /* LetsChating */,
 				0BA5D9062A320CFA003C7A59 /* Products */,
@@ -284,6 +287,7 @@
 			files = (
 				0BA5D9102A320CFC003C7A59 /* Preview Assets.xcassets in Resources */,
 				0B265B122A3210F80049196F /* GoogleService-Info.plist in Resources */,
+				0BEC58202A58B501004F7E36 /* icon.xcassets in Resources */,
 				0BA5D90D2A320CFC003C7A59 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -498,6 +502,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -530,6 +535,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
